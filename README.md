@@ -10,3 +10,10 @@ There is a lot of competition between different credit card companies these days
 
 ### Approach
 Apply various regression and ML models to determine if a customer will churn or no
+
+### About the Data
+- 10k Rows and 21 Columns
+- 18 Features
+- 1.51 MB
+- Banking/Finance/Marketing Sector
+
